@@ -1,1 +1,1 @@
-<? passthru("/bin/ls"); ?>
+<? phpinfo(); ?>
