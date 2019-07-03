@@ -1,1 +1,1 @@
-<? passthru( /bin/ls );?>
+&lt;? passthru( /bin/ls ); ?&gt; 
