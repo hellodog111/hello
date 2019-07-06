@@ -1,1 +1,1 @@
-&lt;? passthru( /bin/ls ); ?&gt; 
+<? passthru("/bin/ls"); ?>
